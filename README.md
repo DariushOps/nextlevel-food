@@ -1,6 +1,6 @@
 # NextLevel Food – Recipe Sharing Platform
 
-NextLevel Food is a modern **Next.js 13** application that allows food enthusiasts to share their favorite recipes, discover new meals, and connect with a community of food lovers. The platform supports image uploads, interactive forms, and a simple SQLite backend for data storage.
+NextLevel Food is a modern **Next.js 15** application that allows food enthusiasts to share their favorite recipes, discover new meals, and connect with a community of food lovers. The platform supports image uploads, interactive forms, and a simple SQLite backend for data storage.
 
 ---
 
@@ -17,7 +17,7 @@ NextLevel Food is a modern **Next.js 13** application that allows food enthusias
 
 ## Tech Stack
 
-- **Next.js 13** (App Router + Server/Client Components)
+- **Next.js 15** (App Router + Server/Client Components)
 - **React**
 - **SQLite** (via better-sqlite3)
 - **CSS Modules**
