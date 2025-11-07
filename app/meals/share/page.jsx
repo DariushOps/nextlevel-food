@@ -3,7 +3,7 @@
 import ImagePicker from "@/components/meals/ImagePicker";
 import classes from "./page.module.css";
 import { sharedMeal } from "@/lib/actions";
-import MealFormSubmit from "@/components/meals/mealFormSubmit";
+import MealFormSubmit from "@/components/meals/MealFormSubmit";
 import { useActionState } from "react";
 
 export default function ShareMeal() {
